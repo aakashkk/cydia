@@ -1,0 +1,33 @@
+<package>
+	<id>com.sectorus.dns2tcpc</id>
+	<name>DNS2TCP CLient</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>DNS2TCP client compiled for ARM64 and iOS 11</shortDescription>
+	<descriptionlist>
+		<description>Dns2tcp is a network tool designed to relay TCP connections through DNS traffic.</description>
+		<description>Encapsulation is done on the TCP level, thus no specific driver is needed (i.e: TUN/TAP). </description>
+		<description><![CDATA[
+		Usage: dns2tcpc
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
