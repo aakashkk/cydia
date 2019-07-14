@@ -13,10 +13,6 @@
 	<shortDescription>Inverts battery percentage</shortDescription>
 	<descriptionlist>
 		<description>This tweak inverts your battery percentage. E.g. 100% equals to 0%, 60% equals to 40% and so on.</description>
-		<description><![CDATA[
-		Usage: dns2tcpc
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 	</screenshots>
