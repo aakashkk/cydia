@@ -1,0 +1,28 @@
+<package>
+	<id>com.sectorus.batteryinverter</id>
+	<name>BatteryInverter</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Inverts battery percentage</shortDescription>
+	<descriptionlist>
+		<description>This tweak inverts your battery percentage. E.g. 100% equals to 0%, 60% equals to 40% and so on.</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

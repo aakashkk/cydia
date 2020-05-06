@@ -1,0 +1,28 @@
+<package>
+	<id>cjp.akusio.kernbypass_0.0.2_iphoneos-arm</id>
+	<name>KernBypass</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.4</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>Credits to akusio https://github.com/akusio/KernBypass-Public</description>
+	</descriptionlist>
+	<screenshots>
+	</screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
