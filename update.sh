@@ -1,4 +1,4 @@
 #!/bin/bash
 dpkg-scanpackages -m ./debs > Packages
-rm Packages.bzip2
+rm Packages.bz2
 bzip2 Packages
